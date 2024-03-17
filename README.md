@@ -1,2 +1,1 @@
-# dataSciencFromScrtch
-Data Science from Scratch - Joel Grus\n bookKeyNotes
+# Data in Pyton
